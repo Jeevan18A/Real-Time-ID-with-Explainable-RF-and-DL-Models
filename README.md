@@ -1,4 +1,4 @@
-# NIDS
+# IDS real time detection
 
 ## About:
 As the complexity of cyber-attacks continues to rise, protecting computer systems
